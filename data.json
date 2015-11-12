@@ -7,7 +7,8 @@
     "screenCaptureOutputDir": "screen-caps",
     "gameResultPages": {
         "1": "https://loop.bcit.ca/docs/DOC-10504",
-        "2": "https://loop.bcit.ca/docs/DOC-10811"
+        "2": "https://loop.bcit.ca/docs/DOC-10811",
+		"3": "https://loop.bcit.ca/docs/enter-doc-id-here"
     },
     "cards": [{
         "cardNumber": 8107,

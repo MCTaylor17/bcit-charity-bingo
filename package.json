@@ -1,5 +1,5 @@
 {
-  "name": "BingoJS",
+  "name": "bcit-charity-bingo",
   "version": "0.0.1",
   "description": "Automatically checks United Way Bingo Numbers",
   "main": "bingo2.js",

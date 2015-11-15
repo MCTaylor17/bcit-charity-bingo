@@ -1,6 +1,6 @@
 # BCIT-Charity-Bingo
 
-This is a fun little application designed specifically for the United Way Charity Bingo game at BCIT.  After entering your bingo numbers into the data.json file, you can check quickly check your results from the command line using NodeJS.
+This is a fun little application designed specifically for the United Way Charity Bingo game at BCIT.  After entering your bingo numbers into the data.json file, you can quickly check your results from the command line using NodeJS.
 
 ## Installation
 
